@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:icon="@mipmap/all"
+        android:id="@+id/allUser"
+        android:title="@string/all_user" />
+
+    <item
+        android:icon="@mipmap/settin"
+        android:id="@+id/setting_stats"
+        android:title="@string/profile" />
+
+    <item
+        android:icon="@drawable/download"
+        android:id="@+id/setPro"
+        android:title="@string/profile"/>
+
+    <item
+        android:icon="@mipmap/log"
+        android:id="@+id/main_logout"
+        android:title="@string/log_out" />
+
+</menu>
